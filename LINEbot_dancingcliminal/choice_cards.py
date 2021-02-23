@@ -20,9 +20,9 @@ app = Flask(__name__)
 
 #環境変数取得
 # 犯人は踊る
-YOUR_CHANNEL_ACCESS_TOKEN = "lddZVDy+pjNCPe1Zu/igEyY/9/tBZ1jaokCSIVCKv4lMwn8cB3RYU4KSk5OKI8wIpAuP84O1LxGz/3EmvCcj1qcVGfbenAwJLJEzrQVXhavXy8dcRZdEbwLSONEaKM0Gv2ES6BnvdpkJntwEySlgQAdB04t89/1O/w1cDnyilFU="
-YOUR_CHANNEL_SECRET = "088336230fa1d600499669231f6590be"
-owner_id = "U4a91bdd11f17b03c08567d9770979fb5"
+YOUR_CHANNEL_ACCESS_TOKEN = "lddZVD******************************************1O/w1cDnyilFU="
+YOUR_CHANNEL_SECRET = "0883*********************6590be"
+owner_id = "U4a91*****************70979fb5"
 
 line_bot_api = LineBotApi(YOUR_CHANNEL_ACCESS_TOKEN)
 handler = WebhookHandler(YOUR_CHANNEL_SECRET)
