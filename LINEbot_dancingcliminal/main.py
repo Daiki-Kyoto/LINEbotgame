@@ -30,8 +30,8 @@ app = Flask(__name__)
 
 
 # 犯人は踊る
-YOUR_CHANNEL_ACCESS_TOKEN = "lddZ******************************************yilFU="
-YOUR_CHANNEL_SECRET = "08************************590be"
+YOUR_CHANNEL_ACCESS_TOKEN = "lddZ**********************************yilFU="
+YOUR_CHANNEL_SECRET = "08*********************590be"
 owner_id = "U4a9*******************979fb5"
 
 
